@@ -21,6 +21,14 @@
          </nav>
     </header>
 
+    <main>
+
+            <img src="assets/images/cars.jpg" alt="cars" >
+
+
+            
+    </main>
+    
                 
 
 
