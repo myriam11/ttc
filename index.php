@@ -13,10 +13,11 @@
                 <h1>Trouves Ta Caisse</h1>
          <nav>
             <ul>
+                <li><a href="#">Accueil</li>
                <li><a href="#">Vendre</li>
                <li><a href="#">Rechercher</li>
                <li><a href="#">Annuaires des Professionnels</li>
-               <li><a href="#">Déposer une annonce</li>
+               
              </ul>
          </nav>
     </header>
