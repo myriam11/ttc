@@ -23,10 +23,10 @@
 
     <main>
 
-            <img src="assets/images/cars.jpg" alt="cars" >
+            <img src="assets/images/audi.jpg" alt="cars" >
 
 
-            
+
     </main>
     
                 
