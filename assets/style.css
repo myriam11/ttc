@@ -1,13 +1,16 @@
 body {
-    background-color: gray
+    background-color:#E0DBDB;
 }
 
 
-nav {
-    text-align: center;
-    color: turquoise;
+nav ul {
+    display:flex;
+    flex-wrap:wrap;
+    padding-left:0;
+    list-style:none;
+    width:100%;
 }
 
-li {
-    color: aqua;
+nav ul li {
+    padding:1rem;
 }
