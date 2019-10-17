@@ -96,3 +96,32 @@ input[type="submit"]
 	font-weight: bold;
 }
  
+/slide**/
+
+.slideshow {
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    border: 3px solid #F2F2F2;
+    display: block;
+    margin-left: 4em;
+    width: 724px;
+    margin: 2em auto;
+
+ }
+ 
+ .slideshow ul {
+     / 4 images donc 4 x 100% */
+    width: 400%;
+    height: 210px;
+    padding:0; margin:0;
+    list-style: none;
+    object-fit: cover;
+ }
+ .slideshow li {
+    float: left;
+ }
+
+ .footer {
+	 background-color: blue;
+ }
